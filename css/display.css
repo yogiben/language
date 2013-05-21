@@ -1,0 +1,163 @@
+.addthis_toolbox
+{
+
+position: absolute;
+left: 120px;
+
+}
+
+.addthis_button_facebook_like
+{
+position: relative;
+top: 4px;
+}
+
+
+#modal-screenshot
+{
+border: solid 2px;
+margin-top: 10px;
+border-radius: 5px;
+}
+
+#modal-screenshot:hover
+{
+box-shadow: 0px 0px 5px;
+}
+
+
+#button-modal {
+position: fixed;
+z-index: 100;
+left: 130px;
+bottom: -4px;
+}
+
+#category-div
+{
+margin-left: 410px;
+position:relative;
+left:180px;
+}
+
+
+#button-modal
+{
+right: inherit;
+}
+
+#category-div {
+margin-left: 410px;
+position: absolute;
+left: 180px;
+}
+
+.social-tab {
+z-index: 20000000;
+position: fixed;
+margin-top: 3px;
+right: 100px;
+font-size: 15px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+height: 28px;
+padding: 4px;
+}
+
+.addthis_toolbox
+{
+
+position: absolute;
+left: 120px;
+
+}
+
+.addthis_button_facebook_like
+{
+position: relative;
+top: 4px;
+}
+
+
+#modal-screenshot
+{
+border: solid 2px;
+margin-top: 10px;
+border-radius: 5px;
+}
+
+#modal-screenshot:hover
+{
+box-shadow: 0px 0px 5px;
+}
+
+
+#button-modal {
+position: fixed;
+z-index: 100;
+left: 130px;
+bottom: -4px;
+}
+
+#category-div
+{
+margin-left: 410px;
+position:relative;
+left:180px;
+}
+
+
+#button-modal
+{
+right: inherit;
+}
+
+#category-div {
+margin-left: 410px;
+position: absolute;
+left: 180px;
+}
+
+.social-tab {
+z-index: 20000000;
+position: fixed;
+margin-top: 3px;
+right: 100px;
+font-size: 15px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+height: 28px;
+padding: 4px;
+}
+
+#brand-image {
+position: absolute;
+height: 37px;
+top: 2px;
+width: 190px;
+left: 0;
+}
+.navbar .nav {
+position: relative;
+left: 0;
+display: block;
+float: left;
+margin: 0 10px 0 0;
+margin-left: 60px;
+}
+
+
+
+
+#brand-image {
+position: absolute;
+height: 38px;
+top: 2px;
+width: 223px;
+left: 0;
+}
+
+.navbar .brand {
+width: 144px;
+padding: 0px 20px 10px;
+}
